@@ -1,5 +1,5 @@
 # Credits @NaytSeyd
-FROM naytseyd/sedenbot:latest
+FROM naytseyd/sedenbot:j1xlte
 
 # Maintainer
 MAINTAINER Ahmet Acikgoz <NaytSeyd@yandex.com>
